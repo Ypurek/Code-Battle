@@ -2,7 +2,7 @@ from player import Player
 
 
 class Example2(Player):
-    name = 'rouge'
+    name = 'rogue'
 
     def play(self) -> int:
         if self.last_game_win is None:
