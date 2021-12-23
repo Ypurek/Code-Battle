@@ -3,10 +3,10 @@
 ## Правила Code Battle
 - Всі учасники розбиваються на пари, щоб кожен зіграв з кожним одну гру
 - Кожен гравець має написати свою реалізацію класу [Player](player.py). Дивіться приклади:
-  - [Example1](example1.py)
-  - [Example2](example2.py)
-  - [Example3](example3.py)
-  - [Example4](example4.py)
+  - [Example1](examples/examplewarrior.py)
+  - [Example2](examples/examplerogue.py)
+  - [Example3](examples/examplemage.py)
+  - [Example4](examples/examplemonk.py)
 - Для гри, у файлі [game.py](game.py) потрібно імпортувати свою реалізацію та запустити гру
 - Після створення та тестування свого гравця, надсилайте клас мені для проведення змагань
 - **Мета:** написати такий алгоритм, що оптимально зможе перемагати інші

@@ -1,7 +1,7 @@
 from player import Player
 
 
-class Example1(Player):
+class ExampleWarrior(Player):
     name = 'warrior'
 
     def play(self) -> int:
